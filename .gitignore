@@ -1,0 +1,6 @@
+/work/
+/outputs/
+*.log
+.DS_Store
+Thumbs.db
+
