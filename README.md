@@ -15,4 +15,3 @@ HealCUT is a browser-based live clipping prototype for YouTube streams. It embed
 - The page is static and has no server-side storage. Clips remain in browser memory until downloaded; refreshes clear them.
 - MP4 recording depends on browser support and can be resource-intensive for long 1080p clips.
 - Use only streams you have permission to record and clip.
-
